@@ -1,4 +1,4 @@
-# Prueba Técnica Backend Junior - Consumo de API y Persistencia
+# Prueba Técnica Backend Junior - Consumo de API y Persistenci
 
 ##  Descripción
 Esta es una API REST desarrollada con **Node.js** y **TypeScript**. El proyecto consume datos de una API externa, realiza una transformación de la información y los persiste en una base de datos local utilizando **TypeORM**.
